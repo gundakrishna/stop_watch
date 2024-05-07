@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background: #FFC55A;
+  color: #FC4100;
+}
+div.container {
+  text-align: center;
+}
+
+h1, h3 {
+  text-align: center;
+  margin: 100px auto 50px;
+}
+
+.container button {
+  padding: 10px 40px;
+  height: 100%;
+  background: #FC4100;
+  color: #fff;
+  font-size: 18px;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  border-radius: 5px;
+}
